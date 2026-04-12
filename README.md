@@ -39,6 +39,10 @@ Feel free to check out my repositories or reach out for collaboration opportunit
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=x8-6&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=x8-6&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x8-6&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x8-6&theme=github_dark" />
@@ -47,5 +51,4 @@ Feel free to check out my repositories or reach out for collaboration opportunit
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/x8-6/x8-6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" />
-  <img src="https://raw.githubusercontent.com/x8-6/x8-6/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" />
 </p>
