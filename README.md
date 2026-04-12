@@ -44,3 +44,8 @@ Feel free to check out my repositories or reach out for collaboration opportunit
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x8-6&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x8-6&theme=github_dark&utcOffset=8" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/x8-6/x8-6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/x8-6/x8-6/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" />
+</p>
